@@ -1,0 +1,37 @@
+*{
+    margin: auto;
+}
+.imagen{
+    width: 150px;
+    height: 80px;
+    float: right;
+}
+.titulonavas{
+    padding-top: 30px;
+    font-size: 60px;
+    text-align: center;
+    color: blue;
+}
+.menu {
+   display: inline-block;
+    background: salmon;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.menu:hover {
+    background: white;
+    color: salmon;
+}
+.navegar {
+    background: black;
+    padding: 10px;
+}
+header {
+    background: salmon;
+    height: 100px;
+}
+.contenedor {
+    height: 600px;
+    background: salmon;
+}

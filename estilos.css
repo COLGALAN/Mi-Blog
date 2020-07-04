@@ -1,0 +1,103 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.logo{
+    width: 200px;
+    height: 150px;
+    float:right;
+}
+.perro {
+    text-align: center;
+    font-size: 80px;
+    color: bisque;
+}
+.perro:hover {
+
+    font-size: 90px;
+    color:rosybrown;
+}
+.menu {
+    display: inline-block;
+    background: salmon;
+    color: white;
+    padding: 10px 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.menu:hover {
+    background: white;
+    color: salmon;
+}
+nav{
+    background: black;
+    padding: 10px;
+}
+.general{
+    width: 1000px;
+    height: 600px;
+    background: salmon;
+    margin: auto;
+}
+article{
+    padding: 30px;
+}
+header{
+    background: salmon;
+    height: 140px;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+h4 {
+    color:sienna;
+}
+h5{
+    color: white;
+}
+p{
+    color:bisque;
+    text-align: justify;
+}
+article{
+    width: 700px;
+    height: 600px;
+}
+aside{
+    float: right;
+    width: 280px;
+    height: 600px;
+    padding: 30px;
+}
+.logopie{
+    width: 120px;
+    height: 120px;
+}
+.icono{
+    width: 30px;
+    height: 30px;
+}
+footer{
+    background: black;
+    height: 300px;
+    width: 1000px;
+    margin: auto;
+    display: block;
+}
+.div1{
+    width: 250px;
+    display: inline-block;
+    height: 300px;
+    float: right;
+}
+.div2 {
+    width: 120px;
+    display: inline-block;
+    height: 300px;
+}
+.cajagrande{
+    background: salmon;
+    height: 600px;
+}
